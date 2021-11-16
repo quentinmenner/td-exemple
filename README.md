@@ -1,3 +1,4 @@
 # Mon oeuvre d'art surréaliste
 
-Ceci n'est pas un fichier informatique
+Le Chêne un jour dit au roseau :
+Vous avez bien sujet d'accuser la Nature
