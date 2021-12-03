@@ -12,3 +12,5 @@ def addition(x,y):
 a=int(input('Première variable : '))
 b=int(input('Deuxième variable : '))
 result=print("Total : ", addition(a,b))
+result2=result+10
+print(result2)
